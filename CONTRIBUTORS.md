@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Gregory Elbajoury
+-Photo: https://avatars2.githubusercontent.com/u/34866703?s=40&v=4
+-Location: Marseille, France
+-Bio: Fullstack Developer
+-Github: https://github.com/Injechta
